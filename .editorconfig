@@ -1,6 +1,6 @@
 # editorconfig.org
 
-root = true
+root = true // testing
 
 [*]
 indent_style = space
